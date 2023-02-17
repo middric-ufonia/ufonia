@@ -1,0 +1,9 @@
+{
+  "name": "ufonia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "pnpm --filter client-app start & pnpm --filter apollo start",
+    "test": "pnpm --filter client-app test -- --watchAll=false && pnpm --filter apollo test"
+  }
+}
