@@ -9,7 +9,7 @@
   "dependencies": {
     "@apollo/server": "^4.4.0",
     "@types/node": "^16.18.12",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "prettier": "^2.8.4",
     "twilio": "^4.7.2",
     "typescript": "^4.9.5"
